@@ -14,7 +14,7 @@ Invite the official bot [here](https://discord.com/api/oauth2/authorize?client_i
 ![Demo](demo.gif)
 
 # Usage
-Before editing this source code, in order to follow GPL licence, make sure to fork it and mention that it is open source please.
+Before editing this source code, in order to follow GPL license, make sure to fork it and mention that it is open source please.
 
 **Requirements**
 - node.js
