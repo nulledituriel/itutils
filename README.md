@@ -16,7 +16,7 @@ Invite the official bot [here](https://discord.com/api/oauth2/authorize?client_i
 # Usage
 Before editing this source code, in order to follow GPL licence, make sure to fork it and mention that it is open source please.
 
-**Requirements**
+**Requirements** \n
 a) node.js
 b) npm
 
@@ -26,7 +26,7 @@ b) npm
 3. edit `config.json` with your personnal details
 4. run `node index.js` :)
 
-**Logs and files**
+**Logs and files** \n
 All results are saved in txt files, and these are stored on different folders, using the same format (check <method>_format.txt files for more info).
 
 # Issues and support
