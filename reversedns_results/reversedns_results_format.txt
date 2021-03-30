@@ -1,0 +1,2 @@
+Format for reverse DNS lookup files' names is
+reverseDNS - <user's tag> - <domain>
