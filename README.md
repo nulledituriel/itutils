@@ -26,5 +26,8 @@ b) npm
 3. edit `config.json` with your personnal details
 4. run `node index.js` :)
 
+**Logs and files**
+All results are saved in txt files, and these are stored on different folders, using the same format (check <method>_format.txt files for more info).
+
 # Issues and support
 If you face any issue feel free to report it on github and join the support server!
