@@ -1,0 +1,2 @@
+Format for subnet lookup files' names is
+Sub Results - <user's tag> - <domain>
