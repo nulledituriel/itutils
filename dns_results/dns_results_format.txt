@@ -1,0 +1,2 @@
+Format for DNS lookup results files' names is :
+DNS results - <user's tag> - <domain>
