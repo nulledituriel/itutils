@@ -8,6 +8,7 @@ const fs = require('fs');
 const request = require('request');
 const path = require("path");
 const fetch = require('node-fetch');
+const domainPing = require("domain-ping");
 
 const config = require('./config.json');
 
