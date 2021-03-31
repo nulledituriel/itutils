@@ -1,6 +1,6 @@
 {
-  "name": "bot_config",
-  "version": "1.0.0",
+  "name": "itUtils",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "axios": "^0.21.1",
     "child_process": "^1.0.2",
     "discord.js": "^12.2.0",
+    "domain-ping": "^0.2.1",
     "eris": "^0.14.0",
     "https": "^1.0.0",
     "libnmap": "^0.4.19",
