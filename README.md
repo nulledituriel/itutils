@@ -31,3 +31,9 @@ Before editing this source code, in order to follow GPL license, make sure to fo
 
 # Issues and support
 If you face any issue feel free to report it on github and join the support server!
+
+# Credits
+[domain-ping module](https://github.com/ricardonunesdev/domain-ping)\
+[node-nmap module](https://github.com/harryhorton/node-nmap)\
+[request module](https://github.com/request/request)\
+[node-fetch module](https://github.com/node-fetch/node-fetch)
