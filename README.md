@@ -36,4 +36,5 @@ If you face any issue feel free to report it on github and join the support serv
 [domain-ping module](https://github.com/ricardonunesdev/domain-ping)\
 [node-nmap module](https://github.com/harryhorton/node-nmap)\
 [request module](https://github.com/request/request)\
-[node-fetch module](https://github.com/node-fetch/node-fetch)
+[node-fetch module](https://github.com/node-fetch/node-fetch)\
+[tor-request](https://github.com/talmobi/tor-request)
