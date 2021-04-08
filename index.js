@@ -9,10 +9,11 @@ const request = require('request');
 const path = require("path");
 const fetch = require('node-fetch');
 const domainPing = require("domain-ping");
+var tr = require('tor-request');
+var exec = require('child_process').execFile;
 
 const config = require('./config.json');
 
-const { exec } = require('child_process');
 function Warn(msg) { var embed = new MessageEmbed().setTitle(msg).setColor('#CF9B10'); return embed; }
 function isLetter(c) { return c.toLowerCase() != c.toUpperCase(); }
 
