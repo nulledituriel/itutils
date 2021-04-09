@@ -1,16 +1,19 @@
+// DISCORD RELATED PACKAGES
+
 const discord = require('discord.js');
 const { MessageEmbed } = require('discord.js');
-const nmap = require('node-nmap');
-var http = require("https");
-var socket = require('net').Socket();
-var sleep = require('sleep');
 const fs = require('fs');
+
+// SCAN RELATED PACKAGES
+const http = require("https");
 const request = require('request');
-const path = require("path");
-const fetch = require('node-fetch');
+const tr = require('tor-request');
 const domainPing = require("domain-ping");
-var tr = require('tor-request');
-var exec = require('child_process').execFile;
+
+// OTHER PACKAGES
+const path = require("path");
+const exec = require('child_process').execFile;
+const superagent = require('superagent');
 
 const config = require('./config.json');
 
